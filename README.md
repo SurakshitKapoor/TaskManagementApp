@@ -3,7 +3,7 @@
 This is a sample react task management app done step-by-step.
 This sample app was a part of react assignment for entry-level-MERN stack job.
 
-You can check the code at : [https://github.com/SurakshitKapoor/TaskManagementApp/new/master](https://github.com/SurakshitKapoor/TaskManagementApp/tree/master)
+You can check the code at : [https://github.com/SurakshitKapoor/TaskManagementApp/new/master]
 
 
 # About Task Management App
